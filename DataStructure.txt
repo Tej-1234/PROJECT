@@ -1,0 +1,62 @@
+Exploring Machine Learning Algorithms to Find the Best Features for Predicting Modes of Childbirth
+
+Machine learning, prediction, vaginal childbirth, cesarean childbirth, data mining, childbirth,
+modes of delivery.
+
+IEEE Access on Machine Learning,Volume:9,Issue Date:March.2021
+
+
+Modes_of_Childbirth
+
+
+modes_of_childbirth
+
+
+
+Concepts :: childbirth (vaginal birth, cesarean birth, emergency cesarean, vacuum
+extraction, or forceps delivery).
+
+
+Birth_Mode_model
+
+names
+Birth_Month
+Birth_Year
+Birth_Day
+Height
+Remarks
+
+
+Trained_Birth_Mode_model
+
+names
+Birth_Month
+Birth_Year
+Birth_Day
+Height
+Remarks
+Modes_of_Childbirth
+
+
+
+
+Birth_Mode_model,Trained_Birth_Mode_model,Mode_Detection_ratio_model
+
+
+Vagina Birth
+
+Cesarean Birth
+
+Emergency Birth
+
+Vacuum Birth
+
+Forceps Birth
+
+
+
+
+
+
+
+
